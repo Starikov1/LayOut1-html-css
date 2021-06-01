@@ -1,0 +1,253 @@
+body
+{
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+#whole
+{
+    width: 960px;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+
+	-moz-box-sizing: border-box; /* Для Firefox */
+	-webkit-box-sizing: border-box; /* Для Safari и Chrome */
+	box-sizing: border-box; /* Для IE и Opera */
+}
+
+.line
+{
+	border-bottom: solid 1px;
+	min-height: 130px;
+}
+
+.footer_line
+{
+	border-top: solid 1px;
+	max-height: 170px;
+}
+
+.logo_pict
+{
+	width: 120px;
+	height: 110px;
+	float: left;
+}
+
+#color_grey
+{
+	background-color: grey;
+	margin-left: 25px;
+}
+
+.Two
+{
+	width: 280px;
+	height: 110px;
+	float: left;
+}
+
+.Three
+{
+	width: 480px;
+	height: 110px;
+	float: left;
+	color: white;
+	text-align: right;
+	padding-right: 30px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.Three a
+{
+	text-decoration: underline;
+}
+
+.main_left
+{
+	width: 180px;
+	float: left;
+	height: 830px;
+	margin-right: 20px;
+	position: relative; /* добавили */
+}
+
+.main_right
+{
+	width: 760px;
+	height: 830px;
+	float: left;
+	position: relative; /* добавили */
+}
+
+.Four
+{
+	width: 180px;
+	color: white;
+	background-color: grey;
+}
+
+#unmarked li
+{
+	list-style-type: none;
+}
+
+.Four ul
+{
+	margin-left: 0; /* Отступ слева в браузере IE и Opera */
+    padding-left: 0;
+}
+
+.bottom_choice
+{
+	height: 130px;
+	width: 180px;
+	bottom: 10px; /* добавили */
+	position: absolute;
+}
+
+main
+{
+	height: 800px;
+	margin-bottom: 35px;
+}
+
+#width_right
+{
+	max-width:100%;
+}
+
+.Five
+{
+	/*width: 200px;*/
+	height: 190px;
+	background-color: #D3D3D3;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+#Pict_List
+{
+	max-width: 100%;
+	height: 150px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#Pict_List img
+{
+	height: 100%;
+	width: 125px;
+}
+
+.Margin_Right
+{
+	margin-right: 29px;
+}
+
+.Position_Image_6
+{
+	position: absolute;
+	right: 0;
+}
+
+.UnderPictures
+{
+	height: 200px;
+	margin-top: 30px;
+}
+
+#TheSame
+{
+	width: 340px;
+	height: 100%;
+	background-color: #D3D3D3;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.Eight
+{
+	margin-right: 15px;
+}
+
+footer
+{
+	height: 200px;
+}
+
+.Ten
+{
+	background-color: grey;
+	width: 300px;
+	height: 170px;
+}
+
+.Ten a
+{
+	color: white;
+}
+
+#Common
+{
+	margin-top: 20px;
+	color: white;
+	float: left;
+}
+
+.two_columns
+{
+	width: 140px;
+	height: 100%;
+	/*border: 1px solid;*/
+	float: left;
+	margin-bottom: 5px;
+}
+
+.Eleven
+{
+	width: 300px;
+	height: 100%;
+	background-color: grey;
+	margin-left: 25px;
+}
+
+.Eleven ul
+{
+	list-style-type: square;
+}
+
+.Last_El
+{
+	width: 300px;
+	height: 170px;
+	/*background-color: grey;*/
+	margin-left: 20px;
+}
+
+.Grey_Div
+{/*
+	width: 100%;
+	height: 70px;*/
+	background-color: grey;
+	margin-bottom: 20px;
+}
+
+.final_picture
+{
+	
+	bottom: 0;
+	/*bottom: 20px;  добавили 
+	position: absolute;*/
+}
+
+#common_final
+{
+	width: 300px;
+	height: 70px;
+}
